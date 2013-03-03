@@ -1,0 +1,13 @@
+C:\Users\kenn\Documents\Visual Studio 2012\Projects\WaitScreenDemo\WaitScreenDemo\bin\Debug\WaitScreenDemo.exe.config
+C:\Users\kenn\Documents\Visual Studio 2012\Projects\WaitScreenDemo\WaitScreenDemo\bin\Debug\WaitScreenDemo.exe
+C:\Users\kenn\Documents\Visual Studio 2012\Projects\WaitScreenDemo\WaitScreenDemo\bin\Debug\WaitScreenDemo.pdb
+C:\Users\kenn\Documents\Visual Studio 2012\Projects\WaitScreenDemo\WaitScreenDemo\obj\Debug\WaitScreenDemo.csprojResolveAssemblyReference.cache
+C:\Users\kenn\Documents\Visual Studio 2012\Projects\WaitScreenDemo\WaitScreenDemo\obj\Debug\MainWindow.baml
+C:\Users\kenn\Documents\Visual Studio 2012\Projects\WaitScreenDemo\WaitScreenDemo\obj\Debug\MainWindow.g.cs
+C:\Users\kenn\Documents\Visual Studio 2012\Projects\WaitScreenDemo\WaitScreenDemo\obj\Debug\App.g.cs
+C:\Users\kenn\Documents\Visual Studio 2012\Projects\WaitScreenDemo\WaitScreenDemo\obj\Debug\WaitScreenDemo_MarkupCompile.cache
+C:\Users\kenn\Documents\Visual Studio 2012\Projects\WaitScreenDemo\WaitScreenDemo\obj\Debug\WaitScreenDemo.g.resources
+C:\Users\kenn\Documents\Visual Studio 2012\Projects\WaitScreenDemo\WaitScreenDemo\obj\Debug\WaitScreenDemo.Properties.Resources.resources
+C:\Users\kenn\Documents\Visual Studio 2012\Projects\WaitScreenDemo\WaitScreenDemo\obj\Debug\WaitScreenDemo.csproj.GenerateResource.Cache
+C:\Users\kenn\Documents\Visual Studio 2012\Projects\WaitScreenDemo\WaitScreenDemo\obj\Debug\WaitScreenDemo.exe
+C:\Users\kenn\Documents\Visual Studio 2012\Projects\WaitScreenDemo\WaitScreenDemo\obj\Debug\WaitScreenDemo.pdb
